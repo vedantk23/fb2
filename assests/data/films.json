@@ -1,0 +1,244 @@
+[
+  {
+    "Title": "Avatar",
+    "Genre": "Action, Adventure, Fantasy",
+    "Director": "James Cameron",
+    "Actors": "Sam Worthington, Zoe Saldana, Sigourney Weaver, Stephen Lang",
+    "ReleaseYear": "2009",
+    "Runtime": "162 min",
+    "Rated": "PG-13",
+    "Writer": "James Cameron",
+    "BoxOffice": "$2,847,246,203",
+    "Budget": "$237,000,000",
+    "Images": [
+      "https://images-na.ssl-images-amazon.com/images/M/MV5BMTMxOTEwNDcxN15BMl5BanBnXkFtZTcwOTg0MTUzNA@@._V1_SX1777_CR0,0,1777,999_AL_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYxMDg1Nzk1MV5BMl5BanBnXkFtZTcwMDk0MTUzNA@@._V1_SX1500_CR0,0,1500,999_AL_.jpg"
+    ]
+  },
+  {
+    "Title": "I Am Legend",
+    "Genre": "Drama, Horror, Sci-Fi",
+    "Director": "Francis Lawrence",
+    "Actors": "Will Smith, Alice Braga, Charlie Tahan, Salli Richardson-Whitfield",
+    "ReleaseYear": "2007",
+    "Runtime": "101 min",
+    "Rated": "PG-13",
+    "Writer": "Mark Protosevich, Akiva Goldsman",
+    "BoxOffice": "$585,410,052",
+    "Budget": "$150,000,000",
+    "Images": [
+      "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYxNjY3NzYxMF5BMl5BanBnXkFtZTcwODk2NDEzMw@@._V1_SX1777_CR0,0,1777,999_AL_.jpg"
+    ]
+  },
+  {
+    "Title": "The Lion King",
+    "Genre": "Animation, Adventure, Drama",
+    "Director": "Roger Allers, Rob Minkoff",
+    "Actors": "Matthew Broderick, Jeremy Irons, James Earl Jones, Whoopi Goldberg",
+    "ReleaseYear": "1994",
+    "Runtime": "88 min",
+    "Rated": "G",
+    "Writer": "Irene Mecchi, Jonathan Roberts, Linda Woolverton",
+    "BoxOffice": "$968,511,805",
+    "Budget": "$45,000,000",
+    "Images": [
+      "https://m.media-amazon.com/images/M/MV5BMjI1MjYxNjYxMF5BMl5BanBnXkFtZTcwODk2NDEzMw@@._V1_.jpg"
+    ]
+  },
+  {
+    "Title": "Bhediya",
+    "Genre": "Comedy, Horror",
+    "Director": "Amar Kaushik",
+    "Actors": "Varun Dhawan, Kriti Sanon, Abhishek Banerjee, Deepak Dobriyal",
+    "ReleaseYear": "2022",
+    "Runtime": "156 min",
+    "Rated": "U/A",
+    "Writer": "Niren Bhatt",
+    "BoxOffice": "₹90 crore",
+    "Budget": "₹60 crore",
+    "Images": [
+      "https://upload.wikimedia.org/wikipedia/en/1/1e/Bhediya_film_poster.jpg"
+    ]
+  },
+  {
+    "Title": "Leo",
+    "Genre": "Action, Thriller",
+    "Director": "Lokesh Kanagaraj",
+    "Actors": "Vijay, Sanjay Dutt, Arjun, Trisha Krishnan",
+    "ReleaseYear": "2023",
+    "Runtime": "164 min",
+    "Rated": "U/A",
+    "Writer": "Lokesh Kanagaraj, Rathna Kumar, Deeraj Vaidy",
+    "BoxOffice": "₹600 crore",
+    "Budget": "₹250 crore",
+    "Images": [
+      "https://upload.wikimedia.org/wikipedia/en/1/1e/Leo_film_poster.jpg"
+    ]
+  },
+  {
+    "Title": "Vikrant Rona",
+    "Genre": "Action, Thriller",
+    "Director": "Anup Bhandari",
+    "Actors": "Sudeepa, Milana Nagaraj, Nirup Bhandari, Neetha Ashok",
+    "ReleaseYear": "2022",
+    "Runtime": "147 min",
+    "Rated": "U/A",
+    "Writer": "Anup Bhandari",
+    "BoxOffice": "₹210 crore",
+    "Budget": "₹95 crore",
+    "Images": [
+      "https://upload.wikimedia.org/wikipedia/en/1/1e/Vikrant_Rona_film_poster.jpg"
+    ]
+  },
+  {
+    "Title": "Inception",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Director": "Christopher Nolan",
+    "Actors": "Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page, Tom Hardy",
+    "ReleaseYear": "2010",
+    "Runtime": "148 min",
+    "Rated": "PG-13",
+    "Writer": "Christopher Nolan",
+    "BoxOffice": "$829,895,144",
+    "Budget": "$160,000,000",
+    "Images": [
+      "https://m.media-amazon.com/images/I/51s+z5ZlYfL._AC_.jpg"
+    ]
+  },
+  {
+    "Title": "The Dark Knight",
+    "Genre": "Action, Crime, Drama",
+    "Director": "Christopher Nolan",
+    "Actors": "Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine",
+    "ReleaseYear": "2008",
+    "Runtime": "152 min",
+    "Rated": "PG-13",
+    "Writer": "Jonathan Nolan, Christopher Nolan",
+    "BoxOffice": "$1,005,973,645",
+    "Budget": "$185,000,000",
+    "Images": [
+      "https://m.media-amazon.com/images/I/51k0qa9ntIL._AC_.jpg"
+    ]
+  },
+  {
+    "Title": "Interstellar",
+    "Genre": "Adventure, Drama, Sci-Fi",
+    "Director": "Christopher Nolan",
+    "Actors": "Matthew McConaughey, Anne Hathaway, Jessica Chastain, Mackenzie Foy",
+    "ReleaseYear": "2014",
+    "Runtime": "169 min",
+    "Rated": "PG-13",
+    "Writer": "Jonathan Nolan, Christopher Nolan",
+    "BoxOffice": "$677,471,339",
+    "Budget": "$165,000,000",
+    "Images": [
+      "https://m.media-amazon.com/images/I/71n58FjvHCL._AC_SL1024_.jpg"
+    ]
+  },
+  {
+    "Title": "The Shawshank Redemption",
+    "Genre": "Drama",
+    "Director": "Frank Darabont",
+    "Actors": "Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler",
+    "ReleaseYear": "1994",
+    "Runtime": "142 min",
+    "Rated": "R",
+    "Writer": "Stephen King, Frank Darabont",
+    "BoxOffice": "$58,500,000",
+    "Budget": "$25,000,000",
+    "Images": [
+      "https://m.media-amazon.com/images/I/51NiGlapXlL._AC_.jpg"
+    ]
+  },
+  {
+    "Title": "Forrest Gump",
+    "Genre": "Drama, Romance",
+    "Director": "Robert Zemeckis",
+    "Actors": "Tom Hanks, Robin Wright, Gary Sinise, Sally Field",
+    "ReleaseYear": "1994",
+    "Runtime": "142 min",
+    "Rated": "PG-13",
+    "Writer": "Winston Groom, Eric Roth",
+    "BoxOffice": "$678,200,000",
+    "Budget": "$55,000,000",
+    "Images": [
+      "https://m.media-amazon.com/images/I/61+9x5x+1UL._AC_SL1000_.jpg"
+    ]
+  },
+  {
+    "Title": "The Matrix",
+    "Genre": "Action, Sci-Fi",
+    "Director": "Lana Wachowski, Lilly Wachowski",
+    "Actors": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving",
+    "ReleaseYear": "1999",
+    "Runtime": "136 min",
+    "Rated": "R",
+    "Writer": "Lilly Wachowski, Lana Wachowski",
+    "BoxOffice": "$466,364,845",
+    "Budget": "$63,000,000",
+    "Images": [
+      "https://m.media-amazon.com/images/I/51EG732BV3L._AC_.jpg"
+    ]
+  },
+  {
+    "Title": "Gladiator",
+    "Genre": "Action, Adventure, Drama",
+    "Director": "Ridley Scott",
+    "Actors": "Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed",
+    "ReleaseYear": "2000",
+    "Runtime": "155 min",
+    "Rated": "R",
+    "Writer": "David Franzoni, John Logan, William Nicholson",
+    "BoxOffice": "$460,583,960",
+    "Budget": "$103,000,000",
+    "Images": [
+      "https://m.media-amazon.com/images/I/51A9G2x9ZSL._AC_.jpg"
+    ]
+  },
+  {
+    "Title": "Titanic",
+    "Genre": "Drama, Romance",
+    "Director": "James Cameron",
+    "Actors": "Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates",
+    "ReleaseYear": "1997",
+    "Runtime": "195 min",
+    "Rated": "PG-13",
+    "Writer": "James Cameron",
+    "BoxOffice": "$2,201,647,264",
+    "Budget": "$200,000,000",
+    "Images": [
+      "https://m.media-amazon.com/images/I/51rOnIjLqzL._AC_.jpg"
+    ]
+  },
+    {
+        "Title": "The Godfather",
+        "Genre": "Crime, Drama",
+        "Director": "Francis Ford Coppola",
+        "Actors": "Marlon Brando, Al Pacino, James Caan, Richard S. Castellano",
+        "ReleaseYear": "1972",
+        "Runtime": "175 min",
+        "Rated": "R",
+        "Writer": "Mario Puzo, Francis Ford Coppola",
+        "BoxOffice": "$250,000,000",
+        "Budget": "$6,000,000",
+        "Images": [
+        "https://m.media-amazon.com/images/I/51z5x1Z5J7L._AC_.jpg"
+        ]
+    },
+    {
+        "Title": "The Dark Knight Rises",
+        "Genre": "Action, Drama, Thriller",
+        "Director": "Christopher Nolan",
+        "Actors": "Christian Bale, Tom Hardy, Anne Hathaway, Gary Oldman",
+        "ReleaseYear": "2012",
+        "Runtime": "164 min",
+        "Rated": "PG-13",
+        "Writer": "Jonathan Nolan, Christopher Nolan",
+        "BoxOffice": "$1,081,041,287",
+        "Budget": "$230,000,000",
+        "Images": [
+            "https://m.media-amazon.com/images/I/51k0qa9ntIL._AC_.jpg"
+        ]
+    }
+]
+ 
