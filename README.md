@@ -1,6 +1,6 @@
 # movie_app
 
-A new Flutter project.
+A Basic Flutter Application which uses JSON Parsing, ListView Builder, Provider State Management.
 
 ## Getting Started
 
